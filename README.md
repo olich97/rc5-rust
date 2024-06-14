@@ -1,5 +1,5 @@
 # rc5-rust
-A simple RC5 cipher implementation in Rust.
+My RC5 cipher implementation in Rust.
 Rivest describes the rc5 cipher here https://www.grc.com/r&d/rc5.pdf and includes a c reference implementation.
 The goal of this code is to implement rc5 in Rust, in a clean, extendible code.
 
